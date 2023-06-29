@@ -1,4 +1,4 @@
-### Getting started
+### Getting started with symfony
 
 ```bash
 cd docker/ && docker-compose up --build
